@@ -8,6 +8,8 @@ public class A
 		a.add("abc");
 		a.add("xyz");
 		a.add("Test OK!");
+		a.add(" OK!");
+		
 		
 		System.out.println(a.get(2));
 	}
